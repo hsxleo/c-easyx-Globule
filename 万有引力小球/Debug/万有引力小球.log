@@ -1,0 +1,8 @@
+﻿  万有引力小球.cpp
+E:\program\c++\游戏设计\万有引力小球\万有引力小球\万有引力小球.cpp(86,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\万有引力小球\万有引力小球\万有引力小球.cpp(107,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\万有引力小球\万有引力小球\万有引力小球.cpp(148,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\万有引力小球\万有引力小球\万有引力小球.cpp(149,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\万有引力小球\万有引力小球\万有引力小球.cpp(150,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\游戏设计\万有引力小球\万有引力小球\万有引力小球.cpp(151,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  万有引力小球.vcxproj -> E:\program\c++\游戏设计\万有引力小球\Debug\万有引力小球.exe
